@@ -1,1 +1,1 @@
-voir: http://taggaddaaaa.github.io/boost_landing-page
+voir: http://taggaddaaaa.github.io/boostalent_landing-page
