@@ -1411,7 +1411,7 @@ readers do not read off random characters that represent icons */
 .fa-child:before {
   content: "\f1ae";
 }
-.fa-paw:before {
+.fa-street-view:before {
   content: "\f1b0";
 }
 .fa-spoon:before {
